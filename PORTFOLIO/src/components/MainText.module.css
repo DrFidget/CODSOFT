@@ -1,0 +1,11 @@
+
+.a{
+  color: white;
+  padding: 5px 0 5px 0;
+  font-size: 4.3rem;
+  /* background-color: rgb(93, 93, 48); */
+}
+.mainimg {
+  -webkit-filter: drop-shadow(5px 5px 5px #020000);
+  filter: drop-shadow(5px 5px 5px #000000);
+}
