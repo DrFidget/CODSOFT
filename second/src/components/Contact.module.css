@@ -1,0 +1,11 @@
+.container{
+    min-height: fit-content
+}
+.iii{
+    width: auto; 
+    max-height: 100px; 
+}
+.submit{
+    color: white;
+    background-color: #8A4FFF;
+}

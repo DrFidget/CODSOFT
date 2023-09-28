@@ -1,0 +1,16 @@
+.h1{
+    text-align: center;
+    font-size: 3.5rem;
+    color: white;
+}
+.h2{
+    font-size: 2.5rem;
+    color: rgb(255, 255, 255);
+}
+.innertext{
+    color: white;
+}
+.mainimg {
+    -webkit-filter: drop-shadow(5px 5px 5px #020000);
+    filter: drop-shadow(5px 5px 5px #000000);
+  }
